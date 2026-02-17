@@ -1,0 +1,18 @@
+# Ignore data folders
+Audio/
+Video/
+JSONs/
+
+# Ignore media files
+*.mp3
+*.wav
+*.mp4
+*.webm
+*.mkv
+
+# Ignore zip files
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
